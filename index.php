@@ -8,8 +8,9 @@
 
 		require "Clases/claseFiguraGeometrica.php";
 
-		$figura = new claseFiguraGeometrica();
-		
+		//$figura = new FiguraGeometrica();
+
+		//var_dump($figura);
 	?>
 </body>
 </html>
